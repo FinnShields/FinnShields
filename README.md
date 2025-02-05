@@ -9,4 +9,4 @@ I'm a junior software developer based in Finland. At the moment I'm studying at 
 - Fluent in Finnish (self taught 😎).
 - That's right, my name is Finn and I live in Finland 😄
 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js,linux)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,js,linux)
